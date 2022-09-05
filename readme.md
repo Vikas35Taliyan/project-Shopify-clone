@@ -12,7 +12,7 @@
     <img src="./Assets\shopify-bag.png" alt="Logo" width="80" height="80">
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://shopify-project.netlify.app/">View Demo</a>
   </p>
 </div>
 
