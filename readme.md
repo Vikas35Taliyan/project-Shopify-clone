@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Shopify Homepage
 
-In this project i have created a Homepage of Shopify website which is the part of my fullstack program(Ineuronai).I have taken reference from the Rode official  website for creating this project.I used HTML and Tailwind CSS for making it responsive mobile first approach.
+In this project i have created a Homepage of Shopify website which is the part of my fullstack program(Ineuronai).I have taken reference from the Shopify official  website for creating this project.I used HTML and Tailwind CSS for making it responsive mobile first approach.
 
 
 ### Built With
