@@ -12,7 +12,7 @@
     <img src="./Assets\shopify-bag.png" alt="Logo" width="80" height="80">
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://shopify-project.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Shopify Homepage
 
-In this project i have created a Homepage of Shopify website which is the part of my fullstack program(Ineuronai).I have taken reference from the Rode official  website for creating this project.I used HTML and Tailwind CSS for making it responsive mobile first approach.
+In this project i have created a Homepage of Shopify website which is the part of my fullstack program(Ineuronai).I have taken reference from the Shopify official  website for creating this project.I used HTML and Tailwind CSS for making it responsive mobile first approach.
 
 
 ### Built With
