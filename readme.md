@@ -59,12 +59,6 @@ Contributions are what make the open source community such an amazing place to l
 If you have a suggestion that would make this better, feel free to contact me on linkdin and fork the repository.
 
 
-<!-- CONTACT -->
-## Contact
-
-#### Vikas kumar - vikaskumarr365@gmail.com
-#### Linkedin link- [LINKEDIN](https://www.linkedin.com/in/vikas-kumar-1b5719219/)
-
 ## Thanks
 ![](https://img.shields.io/badge/-Hitesh%20choudhary-yellow)
 ![](https://img.shields.io/badge/-Ineuronai-orange)
